@@ -1,0 +1,22 @@
+D:\Users\dimak\source\repos\Laba2\Laba2\bin\Debug\net8.0\Laba2.exe
+D:\Users\dimak\source\repos\Laba2\Laba2\bin\Debug\net8.0\Laba2.deps.json
+D:\Users\dimak\source\repos\Laba2\Laba2\bin\Debug\net8.0\Laba2.runtimeconfig.json
+D:\Users\dimak\source\repos\Laba2\Laba2\bin\Debug\net8.0\Laba2.dll
+D:\Users\dimak\source\repos\Laba2\Laba2\bin\Debug\net8.0\Laba2.pdb
+D:\Users\dimak\source\repos\Laba2\Laba2\obj\Debug\net8.0\Laba2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\dimak\source\repos\Laba2\Laba2\obj\Debug\net8.0\Laba2.AssemblyInfoInputs.cache
+D:\Users\dimak\source\repos\Laba2\Laba2\obj\Debug\net8.0\Laba2.AssemblyInfo.cs
+D:\Users\dimak\source\repos\Laba2\Laba2\obj\Debug\net8.0\Laba2.csproj.CoreCompileInputs.cache
+D:\Users\dimak\source\repos\Laba2\Laba2\obj\Debug\net8.0\Laba2.dll
+D:\Users\dimak\source\repos\Laba2\Laba2\obj\Debug\net8.0\refint\Laba2.dll
+D:\Users\dimak\source\repos\Laba2\Laba2\obj\Debug\net8.0\Laba2.pdb
+D:\Users\dimak\source\repos\Laba2\Laba2\obj\Debug\net8.0\Laba2.genruntimeconfig.cache
+D:\Users\dimak\source\repos\Laba2\Laba2\obj\Debug\net8.0\ref\Laba2.dll
+C:\Users\dimak\OneDrive\Рабочий стол\Laba2\Laba2\obj\Debug\net8.0\Laba2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimak\OneDrive\Рабочий стол\Laba2\Laba2\obj\Debug\net8.0\Laba2.AssemblyInfoInputs.cache
+C:\Users\dimak\OneDrive\Рабочий стол\Laba2\Laba2\obj\Debug\net8.0\Laba2.AssemblyInfo.cs
+C:\Users\dimak\OneDrive\Рабочий стол\Laba2\Laba2\obj\Debug\net8.0\Laba2.csproj.CoreCompileInputs.cache
+C:\Users\dimak\OneDrive\Рабочий стол\Laba2\Laba2\obj\Debug\net8.0\Laba2.sourcelink.json
+C:\Users\dimak\OneDrive\Рабочий стол\Laba2\Laba2\obj\Debug\net8.0\Laba2.dll
+C:\Users\dimak\OneDrive\Рабочий стол\Laba2\Laba2\obj\Debug\net8.0\refint\Laba2.dll
+C:\Users\dimak\OneDrive\Рабочий стол\Laba2\Laba2\obj\Debug\net8.0\Laba2.pdb
